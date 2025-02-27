@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MokayaBenedict
-- 👀 I’m interested in machine learning 
+- 👀 I’m interested in Iot and MERN Devolpment 
 - 🌱 I’m currently learning REACT JS and python
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me:mokayaakivatsi@gmail.com
