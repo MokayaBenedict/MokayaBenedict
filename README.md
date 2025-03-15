@@ -13,6 +13,8 @@
 ![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react)
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=python)
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
 
 ## 📚 Actively Learning
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
