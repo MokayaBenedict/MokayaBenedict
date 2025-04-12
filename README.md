@@ -8,16 +8,13 @@ z- 👋 Hi, I’m @MokayaBenedict
 ## 🛠 Programming Skills  
 **Languages, Frameworks, and Tools:**  
 
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/javascript.svg" width="30" height="30" /> JavaScript
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/python.svg" width="30" height="30" /> Python
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/react.svg" width="30" height="30" /> React
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/node-dot-js.svg" width="30" height="30" /> Node.js
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/git.svg" width="30" height="30" /> Git
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg" width="30" height="30" /> GitHub
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/css3.svg" width="30" height="30" /> CSS3
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/html5.svg" width="30" height="30" /> HTML5
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/webpack.svg" width="30" height="30" /> Webpack
 
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+- ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
+- ![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js)
+- ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
+- ![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)
+- ![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3)
 ## 📚 Actively Learning  
 
 <table>
