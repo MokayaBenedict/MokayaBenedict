@@ -7,7 +7,13 @@ z- 👋 Hi, I’m @MokayaBenedict
 - ⚡ Fun fact: Balancing my code with fresh brewed espresso.
 ## 🛠 Programming Skills  
 **Languages, Frameworks, and Tools:**  
-<img src="https://cdn.iconify.design/mdi/home.svg" width="40" />
+- ![JavaScript](https://cdn.iconify.design/mdi/javascript.svg?color=%23f7df1e&width=40)
+- ![React](https://cdn.iconify.design/mdi/react.svg?width=40)
+- ![Node.js](https://cdn.iconify.design/mdi/nodejs.svg?width=40)
+- ![Git](https://cdn.iconify.design/mdi/git.svg?width=40)
+- ![GitHub](https://cdn.iconify.design/mdi/github.svg?width=40)
+- ![CSS3](https://cdn.iconify.design/mdi/css3.svg?width=40)
+
 
 
 
