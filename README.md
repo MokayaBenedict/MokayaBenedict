@@ -18,22 +18,22 @@ z- 👋 Hi, I’m @MokayaBenedict
 
 
 
- - ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-- ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
-- ![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js)
-- ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
-- ![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)
-- ![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3)
-- ![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5)
-- ![Postman](https://img.shields.io/badge/-Postman-black?style=for-the-badge&logo=postman)
-- ![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=cplusplus)
-- ![Django](https://img.shields.io/badge/-Django-black?style=for-the-badge&logo=django)
-- ![Flask](https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask)
-- ![SQL](https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=postgresql)
-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=postgresql)
-- ![Supabase](https://img.shields.io/badge/-Supabase-black?style=for-the-badge&logo=supabase)
-- ![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=figma)
-- ![Canva](https://img.shields.io/badge/-Canva-black?style=for-the-badge&logo=canva)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white)
+- ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=white)
+- ![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js&logoColor=white)
+- ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3&logoColor=white)
+- ![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=white)
+- ![Postman](https://img.shields.io/badge/-Postman-black?style=for-the-badge&logo=postman&logoColor=white)
+- ![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=cplusplus&logoColor=white)
+- ![Django](https://img.shields.io/badge/-Django-black?style=for-the-badge&logo=django&logoColor=white)
+- ![Flask](https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask&logoColor=white)
+- ![SQL](https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=postgresql&logoColor=white)
+- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=white)
+- ![Supabase](https://img.shields.io/badge/-Supabase-black?style=for-the-badge&logo=supabase&logoColor=white)
+- ![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=figma&logoColor=white)
+- ![Canva](https://img.shields.io/badge/-Canva-black?style=for-the-badge&logo=canva&logoColor=white)
 ## 📚 Actively Learning  
 
 <table>
