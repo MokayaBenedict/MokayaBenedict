@@ -1,4 +1,4 @@
-z- 👋 Hi, I’m @MokayaBenedict
+- 👋 Hi, I’m @MokayaBenedict
 - 👀 I’m interested in Iot and MERN Devolpment 
 - 🌱 I’m currently learning REACT JS and python
 - 💞️ I’m looking to collaborate on projects
