@@ -12,12 +12,9 @@
   <tr>
     <td><img src="https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5"></td>
     <td><img src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3"></td>
- 
     <td><img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript"></td>
     <td><img src="https://img.shields.io/badge/-React-blue?style=flat&logo=react"></td>
     <td><img src="https://img.shields.io/badge/-Python-yellow?style=flat&logo=python"></td>
-  </tr>
-  <tr>
     <td><img src="https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js"></td>
     <td><img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white"></td>
