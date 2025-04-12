@@ -9,12 +9,12 @@ z- 👋 Hi, I’m @MokayaBenedict
 **Languages, Frameworks, and Tools:**  
 
 
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-- ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
-- ![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js)
-- ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
-- ![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)
-- ![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3)
+- ![](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+- ![](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
+- ![](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js)
+- ![](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
+- ![](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)
+- ![](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3)
 ## 📚 Actively Learning  
 
 <table>
