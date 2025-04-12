@@ -7,14 +7,16 @@ z- 👋 Hi, I’m @MokayaBenedict
 - ⚡ Fun fact: Balancing my code with fresh brewed espresso.
 ## 🛠 Programming Skills  
 **Languages, Frameworks, and Tools:**  
-- ![JavaScript](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/javascript.svg =30x30)
-- ![React](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/react.svg =30x30)
-- ![Node.js](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/node-dot-js.svg =30x30)
-- ![Git](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/git.svg =30x30)
-- ![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg =30x30)
-- ![CSS3](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/css3.svg =30x30)
 
-
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/javascript.svg" width="30" height="30" /> JavaScript
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/python.svg" width="30" height="30" /> Python
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/react.svg" width="30" height="30" /> React
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/node-dot-js.svg" width="30" height="30" /> Node.js
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/git.svg" width="30" height="30" /> Git
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg" width="30" height="30" /> GitHub
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/css3.svg" width="30" height="30" /> CSS3
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/html5.svg" width="30" height="30" /> HTML5
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/webpack.svg" width="30" height="30" /> Webpack
 
 ## 📚 Actively Learning  
 
