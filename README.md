@@ -9,6 +9,8 @@ z- 👋 Hi, I’m @MokayaBenedict
 **Languages, Frameworks, and Tools:**  
 
 ![Icon](https://github.com/your-username/your-repo-name/path-to-your-icon.svg)
+![Icon](https://raw.githubusercontent.com/your-username/your-repo-name/path-to-your-icon.svg)
+
 
 
 
