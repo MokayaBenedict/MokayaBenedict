@@ -7,13 +7,12 @@ z- 👋 Hi, I’m @MokayaBenedict
 - ⚡ Fun fact: Balancing my code with fresh brewed espresso.
 ## 🛠 Programming Skills  
 **Languages, Frameworks, and Tools:**  
-- ![JavaScript](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/javascript.svg)
-- ![React](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/react.svg)
-- ![Node.js](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/node-dot-js.svg)
-- ![Git](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/git.svg)
-- ![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg)
-- ![CSS3](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/css3.svg)
-- 
+- ![JavaScript](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/javascript.svg =30x30)
+- ![React](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/react.svg =30x30)
+- ![Node.js](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/node-dot-js.svg =30x30)
+- ![Git](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/git.svg =30x30)
+- ![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg =30x30)
+- ![CSS3](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/css3.svg =30x30)
 
 
 
