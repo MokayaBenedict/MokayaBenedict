@@ -25,7 +25,7 @@
     <td><img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"></td>
   </tr>
 </table>
-![image](https://github.com/user-attachments/assets/0770bf4d-1a55-4e48-8d79-ae01408a797d)
+
 
 <!---
 MokayaBenedict/MokayaBenedict is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
