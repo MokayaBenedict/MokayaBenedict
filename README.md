@@ -1,37 +1,15 @@
-- 👋 Hi, I’m @MokayaBenedict
-- 👀 I’m interested in Iot and MERN Devolpment 
-- 🌱 I’m currently learning REACT JS and python
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me:mokayaakivatsi@gmail.com
-- 😄 Pronouns: Him
-- ⚡ Fun fact: Balancing my code with fresh brewed espresso.
-## 🛠 Programming Skills  
-**Languages, Frameworks, and Tools:** 
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript) | ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react) | ![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js) | ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git) |
-|-----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
-| ![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)               | ![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3)                 | ![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5)                     | ![Postman](https://img.shields.io/badge/-Postman-black?style=for-the-badge&logo=postman)                 |
-| ![C](https://img.shields.io/badge/-C-black?style=for-the-badge&logo=c)                | ![Django](https://img.shields.io/badge/-Django-black?style=for-the-badge&logo=django)             | ![Flask](https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask)                       | ![SQL](https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=postgresql)                      |
-| ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=postgresql)   | ![Supabase](https://img.shields.io/badge/-Supabase-black?style=for-the-badge&logo=supabase)       | ![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=figma)                       | ![Canva](https://img.shields.io/badge/-Canva-black?style=for-the-badge&logo=canva)                        |
 
+# 💻 Tech Stack:
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=flat&logo=jinja&logoColor=black) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+# 📊 GitHub Stats:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MokayaBenedict&show_icons=true&theme=radical)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=MokayaBenedict&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MokayaBenedict&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MokayaBenedict&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 📚 Actively Learning  
+---
+[![](https://visitcount.itsvg.in/api?id=MokayaBenedict&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<table>
-  <tr>
-    <td><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"></td>
-    <td><img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black"></td>
-    <td><img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white"></td>
-    <td><img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"></td>
-  </tr>
-</table>
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MokayaBenedict&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MokayaBenedict&layout=donut)](https://github.com/MokayaBenedict/github-readme-stats)
-
-
-<!---
-MokayaBenedict/MokayaBenedict is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
