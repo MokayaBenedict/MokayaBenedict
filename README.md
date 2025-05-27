@@ -26,7 +26,9 @@
   </tr>
 </table>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MokayaBenedict)](https://github.com/MokayaBenedict/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MokayaBenedict&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MokayaBenedict&layout=donut)](https://github.com/MokayaBenedict/github-readme-stats)
 
 
 <!---
