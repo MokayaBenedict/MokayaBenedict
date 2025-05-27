@@ -26,6 +26,8 @@
   </tr>
 </table>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MokayaBenedict)](https://github.com/MokayaBenedict/github-readme-stats)
+
 
 <!---
 MokayaBenedict/MokayaBenedict is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
